@@ -1,6 +1,4 @@
-# Olá, sou o Daniel Filemon 👋
-
-Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolvi e estou desenvolvendo. Fique à vontade para explorar!
+# Hi, I am Daniel Filemon 👋
 
 - LinkedIn: [danielfilemon](https://linkedin.com/in/danielfilemon)
 
