@@ -2,7 +2,6 @@
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolvi e estou desenvolvendo. Fique à vontade para explorar!
 
-- 📧 E-mail: daniel@email.com
 - LinkedIn: [danielfilemon](https://linkedin.com/in/danielfilemon)
 
 ## Estatísticas do GitHub
