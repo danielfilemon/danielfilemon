@@ -2,5 +2,5 @@
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=danielfilemon&show_icons=true&theme=tokyonight&hide=prs,issues)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfilemon&layout=compact&theme=tokyonight)
 
