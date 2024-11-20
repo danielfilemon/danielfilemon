@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolv
 
 ## Sobre mim
 
-🎓 Desenvolvedor de software | 💻 Apaixonado por programação  
+🎓 Desenvolvedor de software 
 🔭 Atualmente explorando tecnologias como React, Python e PHP  
 🌱 Sempre aprendendo novas ferramentas e linguagens  
 📚 Buscando crescer como desenvolvedor e compartilhar meu conhecimento
