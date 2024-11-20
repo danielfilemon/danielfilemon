@@ -10,7 +10,6 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolv
 📚 Buscando crescer como desenvolvedor e compartilhar meu conhecimento
 
 ## Tecnologias & Ferramentas
-
 - React
 - JavaScript
 - Python
