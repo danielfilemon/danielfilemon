@@ -11,7 +11,7 @@ Full Stack Developer with 4+ years of experience in Front-End development and Wo
 
 ## 📊 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfilemon&layout=compact&theme=default)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?usernamedanielfilemo&layout=compact&theme=default)
 
 ---
 
