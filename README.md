@@ -1,20 +1,13 @@
-# Hello, I'm Daniel Filemon 👋
+# Daniel Filemon
 
-Full Stack Developer with 4+ years of experience in Front-End development and WordPress specialization. Passionate about building performant, scalable, and user-focused web applications.
+Full Stack Developer with 4+ years of experience in Front-End development and WordPress.
 
-## 🚀 Tech Stack
+## Tech Stack
 
-- Front-End: HTML, CSS, JavaScript, Sass, Vue.js, Next.js
-- Back-End: PHP, SQL
-- Tools: WordPress, Webpack, Gulp, ESLint, Xdebug
-- Focus: Performance Optimization, SEO, Clean Code
-
-## 📊 Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?usernamedanielfilemo&layout=compact&theme=default)
+HTML, CSS, JavaScript, Sass, Vue.js, Next.js  
+PHP, SQL  
+WordPress
 
 ---
 
-💡 Currently improving my skills in advanced React patterns and scalable architecture.
-
-Feel free to explore my projects and connect with me!
+Currently focused on building scalable and performant web applications.
